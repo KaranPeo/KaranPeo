@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KaranPeo
+- 👀 I’m interested in machine learning/artificial intelligence
+- 🌱 I’m currently a student at the university of oklahoma majoring in computer science 
+- 📫 How to reach me -peokaran@gmail.com
